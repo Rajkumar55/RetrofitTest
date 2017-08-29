@@ -18,14 +18,11 @@ import android.widget.LinearLayout;
 import android.widget.PopupWindow;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import java.util.List;
 
 import com.example.raj.retrofittest.R;
 import com.example.raj.retrofittest.model.Movie;
-
-import static android.content.Context.LAYOUT_INFLATER_SERVICE;
 
 /**
  * Created by raj on 8/19/17.
